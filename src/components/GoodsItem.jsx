@@ -17,7 +17,7 @@ const GoodsItem = (props) => {
                 />
                 <CardContent>
                     <Typography variant="h6" component="h3">{name}</Typography>
-                    <Typography variant="body1" >Цена: {price} руб.</Typography></CardContent>
+                    <Typography variant="body1" >Цена: {price} тг.</Typography></CardContent>
                     <CardActions>
                     <Button variant="text"
                         className='btn btn-primary'
